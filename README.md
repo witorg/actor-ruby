@@ -1,4 +1,4 @@
-# Actor
+# Action
 
 > A generic service object for performing and managing actions to be performed
 
